@@ -299,7 +299,7 @@ const sections = [
     "key": "E",
     "label": "E",
     "title": "Complete the sentences.",
-    "note": "Use each phrase from the box once.",
+    "note": "Choose from the box to complete the sentences. There is one extra word or phrase.",
     "points": 4,
     "wordBank": [
       "might be a good day",
